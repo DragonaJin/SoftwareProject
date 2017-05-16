@@ -1,2 +1,0 @@
-# SoftwareProject
-first remote repository
